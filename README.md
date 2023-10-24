@@ -1,6 +1,6 @@
 # Titulo: Calculadora IMC simples.
 
-## Acessar: https://victormanzano.github.io/IMC-JS/
+## Acessar: https://victormanzano.github.io/IMC_JS/
 
 ## Ferramentas:
 - HTML
